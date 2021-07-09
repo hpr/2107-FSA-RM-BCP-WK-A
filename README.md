@@ -4,22 +4,18 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 ## Table of Contents
 
-<!--1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)-->
-2. [Loops And Debugging](#01-loops-and-debugging)
-3. [Coercion And Truthiness](#02-coercion-and-truthiness)
-<!--4. [Caesar Cypher](#04-caesar-cypher)-->
-5. [Scope](#03-scope)
-6. [Arrays I](#04-arrays-i)
-7. [Arrays II](#05-arrays-ii)
-<!--8. [Sudoku Validator](#08-sudoku-validator)-->
-9. [Objects](#06-objects)
-9. [Object Methods](#07-object-methods)
-9. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference)
+1. [Loops And Debugging](#01-loops-and-debugging)
+2. [Coercion And Truthiness](#02-coercion-and-truthiness)
+3. [Scope](#03-scope)
+4. [Arrays I](#04-arrays-i)
+5. [Arrays II](#05-arrays-ii)
+6. [Objects](#06-objects)
+7. [Object Methods](#07-object-methods)
+8. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference)
 9. [Higher-Order Functions I](#09-higher-order-functions-i)
-9. [Higher-Order Functions II](#09-higher-order-functions-ii)
-10. [Recursion I](#10-recursion-i)
-11. [Recursion II](#11-recursion-ii)
-<!--12. [Next Steps](#12-next-steps)-->
+10. [Higher-Order Functions II](#09-higher-order-functions-ii)
+11. [Recursion I](#10-recursion-i)
+12. [Recursion II](#11-recursion-ii)
 
 ## Additional Resources
 
@@ -68,16 +64,16 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 1. [Solutions w/ Harry](https://codepen.io/collection/jbOVmZ)
 
-<!--
 ## **01 Loops And Debugging**
-
-**[Live Lecture](https://youtu.be/nwEFKYcA8PQ)**
-
-**[Live Review](https://youtu.be/EhZdkWz3AzE)**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
+
+<!--
+**[Live Lecture](https://youtu.be/nwEFKYcA8PQ)**
+
+**[Live Review](https://youtu.be/EhZdkWz3AzE)**
 
 ### Notes
 
