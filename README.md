@@ -145,15 +145,19 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
-## **06 Arrays I**
+-->
+
+## **04 Arrays I**
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
+
+<!--
 
 **[Live Lecture](https://youtu.be/T1L5yRjmf5g)**
 
 **[Live Review](https://youtu.be/tEVT4mS0-TQ)** (old video)
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
 
 ### Notes
 
