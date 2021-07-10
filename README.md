@@ -4,6 +4,7 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 ## Table of Contents
 
+0. [Introduction & Tidy Code](#00-introduction-and-tidy-code)
 1. [Loops And Debugging](#01-loops-and-debugging)
 2. [Coercion And Truthiness](#02-coercion-and-truthiness)
 3. [Scope](#03-scope)
@@ -39,7 +40,7 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 - [Control Flow (if and else) - 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
 - [Control Flow - 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
-## **00 Additional Notes**
+## ** Additional Notes**
 
 ### Notes
 
@@ -50,7 +51,11 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-### Bonus 1: Introduction and Tidy Code
+## 00 Introduction and Tidy Code
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/landing)
+
+<!--
 
 **[Live Lecture](https://youtu.be/jURdBjVvM4o)**
 
@@ -58,22 +63,25 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Lecture Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
-#### Bonus 1 Notes
+### Notes
 
 [Past Notes](01-tidy-code)
 
 1. [Solutions w/ Harry](https://codepen.io/collection/jbOVmZ)
 
+-->
+
 ## **01 Loops And Debugging**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
-[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
-
 <!--
+
 **[Live Lecture](https://youtu.be/nwEFKYcA8PQ)**
 
 **[Live Review](https://youtu.be/EhZdkWz3AzE)**
+
+[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
 ### Notes
 
