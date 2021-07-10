@@ -4,8 +4,7 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 ## Table of Contents
 
-0. [Introduction & Tidy Code](#00-introduction-and-tidy-code)
-1. [Loops And Debugging](#01-loops-and-debugging)
+1. [Introduction And Tidy Code And Loops And Debugging](#00-01-introduction-and-tidy-code-and-loops-and-debugging)
 2. [Coercion And Truthiness](#02-coercion-and-truthiness)
 3. [Scope](#03-scope)
 4. [Arrays I](#04-arrays-i)
@@ -51,39 +50,27 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-## 00 Introduction and Tidy Code
+## **00-01 Introduction And Tidy Code And Loops And Debugging**
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/landing)
+[Tidy Code Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/landing)
 
-<!--
+[Loops Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
-**[Live Lecture](https://youtu.be/jURdBjVvM4o)**
+**[Live Lecture](https://youtu.be/R9rYnk65dyg)**
 
-**[Live Review](https://youtu.be/cdb3PDwyc5I)**
+**[Live Review](https://youtu.be/NbaYSHNKt2Q)**
 
-[Lecture Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
+[Tidy Code Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
-### Notes
+[Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
+
+### Tidy Code Notes
 
 [Past Notes](01-tidy-code)
 
 1. [Solutions w/ Harry](https://codepen.io/collection/jbOVmZ)
 
--->
-
-## **01 Loops And Debugging**
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
-
-<!--
-
-**[Live Lecture](https://youtu.be/nwEFKYcA8PQ)**
-
-**[Live Review](https://youtu.be/EhZdkWz3AzE)**
-
-[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
-
-### Notes
+### Loops And Debugging Notes
 
 * [Loops Solutions w/ Harry](https://codepen.io/collection/dbbpQd)
 
@@ -95,30 +82,33 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
-## **03 Coercion and Truthiness**
-
-**[Live Lecture](https://youtu.be/PSzobAWph3o)**
-
-**[Live Review](https://youtu.be/ZIbj1gZOf1M)** (old video)
-
-[Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
+## **02 Coercion and Truthiness**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/landing)
 
+**[Live Lecture](https://youtu.be/T1yjWhc0GeI)**
+
+**[Live Review](https://youtu.be/PtCDWktD5SE)**
+
+[Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
+
 ### Notes
 
-* [Truthiness & Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO?cursor=ZD0wJm89MCZwPTEmdj00)
+* [Truthiness & Types Solutions w/ Harry](https://codepen.io/collection/dbGwdN)
+* [Alternative Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO)
 * [Extra Credit](03-type-coercion-and-truthiness/extra-credit.js)
 
+<!--
+
 ## **04 Caesar Cypher**
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/landing)
 
 **[Live Lecture](https://youtu.be/nRSler1WJbs)**
 
 **[Live Review](https://youtu.be/5z-DetUEoUs)** (old video)
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/landing)
 
 ### Notes
 
@@ -127,15 +117,19 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 * [vowelCount solution](https://codepen.io/habst/pen/BaWpYGy)
 * [Harry's Caesar Cypher Decoder](https://codepen.io/habst/pen/xxqdyQd)
 
-## **05 Scope**
+-->
+
+## **03 Scope**
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
+
+<!--
 
 **[Live Lecture](https://youtu.be/Va1Sho-be1c)**
 
 **[Live Review](https://youtu.be/mZadnctnrK8)** (old video)
 
 [Lecture Slides](05-scope/05_Scope.pdf)
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
 ### Notes
 
