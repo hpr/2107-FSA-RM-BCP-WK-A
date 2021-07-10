@@ -40,7 +40,7 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 - [Control Flow (if and else) - 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
 - [Control Flow - 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
-## ** Additional Notes**
+## **Additional Notes**
 
 ### Notes
 
