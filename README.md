@@ -123,17 +123,16 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
-<!--
+**[Live Lecture](https://youtu.be/Tc8QIuj7oAg)**
 
-**[Live Lecture](https://youtu.be/Va1Sho-be1c)**
-
-**[Live Review](https://youtu.be/mZadnctnrK8)** (old video)
+**[Live Review](https://youtu.be/2OwyJEkPbII)**
 
 [Lecture Slides](05-scope/05_Scope.pdf)
 
 ### Notes
 
-* [Our Solutions](https://codepen.io/collection/jbOGQz)
+* [Our Solutions](https://codepen.io/collection/RzPvwy)
+* [Alt Solutions](https://codepen.io/collection/jbOGQz)
 
 [Full Notes](05-scope)
 
@@ -145,23 +144,20 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
 
--->
-
 ## **04 Arrays I**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
 
-<!--
+**[Live Lecture](https://youtu.be/7wqXMlE-U7w)**
 
-**[Live Lecture](https://youtu.be/T1L5yRjmf5g)**
-
-**[Live Review](https://youtu.be/tEVT4mS0-TQ)** (old video)
+**[Live Review](https://youtu.be/FKe9FXXkAgI)**
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
 
 ### Notes
 
-* [Harry's Arrays I Solutions](https://codepen.io/collection/pggdPL)
+* [Our Solutions](https://codepen.io/collection/GopMNY)
+* [Alt Arrays I Solutions](https://codepen.io/collection/pggdPL)
 * [Other Examples](https://replit.com/join/cztqkwdk-kuroii)
 
 [Full Notes](06-arrays-I)
@@ -181,15 +177,17 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-## **07 Arrays II**
+## **05 Arrays II**
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/landing)
+
+<!--
 
 **[Live Lecture](https://youtu.be/wvBoAnu0TXs)**
 
 **[Live Review](https://youtu.be/PRlP2CxMCqY)** (old video)
 
 [Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/landing)
 
 ### Notes
 
