@@ -56,13 +56,13 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Loops Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
-**[Live Lecture](https://youtu.be/R9rYnk65dyg)**
-
-**[Live Review](https://youtu.be/NbaYSHNKt2Q)**
-
 [Tidy Code Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
 [Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
+
+**[Live Lecture](https://youtu.be/R9rYnk65dyg)**
+
+**[Live Review](https://youtu.be/NbaYSHNKt2Q)**
 
 ### Tidy Code Notes
 
@@ -86,11 +86,11 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/landing)
 
+[Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
+
 **[Live Lecture](https://youtu.be/T1yjWhc0GeI)**
 
 **[Live Review](https://youtu.be/PtCDWktD5SE)**
-
-[Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
 ### Notes
 
@@ -123,11 +123,11 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
+[Lecture Slides](05-scope/05_Scope.pdf)
+
 **[Live Lecture](https://youtu.be/Tc8QIuj7oAg)**
 
 **[Live Review](https://youtu.be/2OwyJEkPbII)**
-
-[Lecture Slides](05-scope/05_Scope.pdf)
 
 ### Notes
 
@@ -148,11 +148,11 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
 
+[Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
+
 **[Live Lecture](https://youtu.be/7wqXMlE-U7w)**
 
 **[Live Review](https://youtu.be/FKe9FXXkAgI)**
-
-[Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
 
 ### Notes
 
@@ -181,41 +181,42 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/landing)
 
-<!--
-
-**[Live Lecture](https://youtu.be/wvBoAnu0TXs)**
-
-**[Live Review](https://youtu.be/PRlP2CxMCqY)** (old video)
-
 [Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
+
+**[Live Lecture](https://youtu.be/0wzYAM9yafE)**
+
+**[Live Review](https://youtu.be/ubveNKESrG8)**
 
 ### Notes
 
-* [Harry's Arrays II solutions](https://codepen.io/collection/kNNxwj)
+* [Our Arrays II solutions](https://codepen.io/collection/KpwZqv)
+* [Harry's Other Arrays II solutions](https://codepen.io/collection/kNNxwj)
 
-## **08 Sudoku Validator**
+## **Extra Project: Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/5efTyma0UvM)**
-
-**[Review](https://youtu.be/q8zFfPfdKmQ)** (old video)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/landing)
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/landing)
+**[Live Lecture](https://youtu.be/5efTyma0UvM)**
+
+**[Review](https://youtu.be/q8zFfPfdKmQ)**
 
 ### Notes
 
 [Our Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
 
-## **09 Objects**
+## **06 Objects**
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/landing)
+
+[Lecture Slides](09-objects/09_Objects.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/eEAItxdkEvo)**
 
 **[Extra review](https://www.youtube.com/watch?v=zmiCx3MrUow)**
-
-[Lecture Slides](09-objects/09_Objects.pdf)
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/landing)
 
 ### General Notes
 
