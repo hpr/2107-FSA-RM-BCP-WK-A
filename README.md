@@ -218,8 +218,8 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 ### General Notes
 
-[Our Solutions](https://codepen.io/collection/GopLQk)
-[Harry's Other Solutions](https://codepen.io/collection/rxxzRR)
+* [Our Solutions](https://codepen.io/collection/GopLQk)
+* [Harry's Other Solutions](https://codepen.io/collection/rxxzRR)
 
 [Full Notes](09-objects)
 
@@ -237,9 +237,11 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 12. [Nested Arrays](09-objects/L-nested-arr.js)
 13. [Nested Objects](09-objects/M-nested-obj.js)
 
-### **07 Object Methods**
+## **07 Object Methods**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60edce749b1b37000428c05b/landing)
+
+[Lecture Slides](09-objects/07_Object_Methods.pdf)
 
 <!--
 
