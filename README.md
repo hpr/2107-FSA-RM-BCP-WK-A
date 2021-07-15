@@ -98,15 +98,13 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 * [Alternative Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO)
 * [Extra Credit](03-type-coercion-and-truthiness/extra-credit.js)
 
-<!--
-
-## **04 Caesar Cypher**
+## **Extra Project: Caesar Cypher**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/landing)
 
 **[Live Lecture](https://youtu.be/nRSler1WJbs)**
 
-**[Live Review](https://youtu.be/5z-DetUEoUs)** (old video)
+**[Live Review](https://youtu.be/5z-DetUEoUs)**
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
@@ -116,8 +114,6 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 * [Harry's solutions](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
 * [vowelCount solution](https://codepen.io/habst/pen/BaWpYGy)
 * [Harry's Caesar Cypher Decoder](https://codepen.io/habst/pen/xxqdyQd)
-
--->
 
 ## **03 Scope**
 
@@ -243,20 +239,26 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Lecture Slides](09-objects/07_Object_Methods.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/s55O7JZFwK0)**
 
-**[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
+**[Live Review](https://youtu.be/v5OzD6pSp0U)**
 
 #### Object Methods Notes
+
+* [Our solutions](https://codepen.io/collection/VYvOxB)
 
 1. [What Are Methods](09-objects/N-whatisamethod.js)
 2. [Creating Methods](09-objects/O-createmethods.js)
 3. [this](09-objects/P-this.js)
 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
-## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
+## **08 Pass By Value Pass By Reference**
 
-**[Live Lecture](https://youtu.be/Casw_S_uOoE)**
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60ef4935719b7f00044056b8/landing)
+
+[Lecture Slides](09-objects/08_PBV_PBR.pdf)
+
+<!--
 
 ## **Higher Order Functions I - Optional Advanced Lecture 2**
 
