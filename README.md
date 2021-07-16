@@ -243,7 +243,7 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 **[Live Review](https://youtu.be/v5OzD6pSp0U)**
 
-#### Object Methods Notes
+### Object Methods Notes
 
 * [Our solutions](https://codepen.io/collection/VYvOxB)
 
@@ -258,15 +258,19 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Lecture Slides](09-objects/08_PBV_PBR.pdf)
 
+**[Live Lecture](https://youtu.be/wgmVX9LrLW0)**
+
+**[Live Review](https://youtu.be/-VQVhn-81UY)**
+
+### Notes
+
+* [Our solutions](https://codepen.io/collection/LPYKzo)
+
+## **09 Higher Order Functions I**
+
+## **10 Higher Order Functions II**
+
 <!--
-
-## **Higher Order Functions I - Optional Advanced Lecture 2**
-
-**[Live Lecture](https://youtu.be/FiEY_pb_cR0)**
-
-## **Higher Order Functions II - Optional Advanced Lecture 3**
-
-**[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
 ## **10 Recursion I**
 
