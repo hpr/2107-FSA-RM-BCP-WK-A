@@ -268,19 +268,43 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 ## **09 Higher Order Functions I**
 
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60f06d9bd48d220004de001d/landing)
+
+[Lecture Slides](09-objects/10_Higher-order_Functions_I.pdf)
+
+**[Live Lecture](https://youtu.be/Q4KtO3-EdIU)**
+
+**[Live Review](https://youtu.be/Qx5CqNP7Lbk)**
+
+### Notes
+
+* [Our solutions](https://codepen.io/collection/vBZLgj)
+
 ## **10 Higher Order Functions II**
 
-<!--
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60f21a8a1990e600048d6976/landing)
+
+[Lecture Slides](09-objects/11_Higher-order_Functions_II.pdf)
+
+**[Live Lecture](https://youtu.be/vTAio0LBaXU)**
+
+**[Extra Review](https://youtu.be/pAtDHJs5bis)**
+
+### Notes
+
+* [Our solutions](https://codepen.io/collection/mrVdbK)
 
 ## **10 Recursion I**
-
-**[Live Lecture](https://youtu.be/uLu0T-u5KJg)**
-
-**[Extra review](https://www.youtube.com/watch?v=wuoNJN-LlaE)**
 
 [Lecture Slides](10-recursion-i/10_Recursion_I.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
+
+<!--
+
+**[Live Lecture](https://youtu.be/uLu0T-u5KJg)**
+
+**[Extra review](https://www.youtube.com/watch?v=wuoNJN-LlaE)**
 
 ### Notes
 
@@ -295,15 +319,19 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 5. [Iterables](10-recursion-i/E-iterables.js)
 6. [Hints](10-recursion-i/F-hints.js)
 
+-->
+
 ## **11 Recursion II**
-
-**[Live Lecture](https://youtu.be/mqxKTxhCbqk)**
-
-**[Live Review](https://youtu.be/CDtEBk3t3Wo)**
 
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
+
+<!--
+
+**[Live Lecture](https://youtu.be/mqxKTxhCbqk)**
+
+**[Live Review](https://youtu.be/CDtEBk3t3Wo)**
 
 ### Notes
 
