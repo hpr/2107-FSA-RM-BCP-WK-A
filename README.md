@@ -300,15 +300,14 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
 
-<!--
+**[Live Lecture](https://youtu.be/EXicYgoQuk8)**
 
-**[Live Lecture](https://youtu.be/uLu0T-u5KJg)**
-
-**[Extra review](https://www.youtube.com/watch?v=wuoNJN-LlaE)**
+**[Live review](https://youtu.be/23F9wjZgmw0)**
 
 ### Notes
 
-* [Harry's Review](https://codepen.io/collection/MggPbv)
+* [Our solutions](https://codepen.io/collection/rxVObw)
+* [Harry's One-Line Solutions](https://codepen.io/collection/MggPbv)
 
 [Full Notes](10-recursion-i)
 
@@ -319,22 +318,19 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 5. [Iterables](10-recursion-i/E-iterables.js)
 6. [Hints](10-recursion-i/F-hints.js)
 
--->
-
 ## **11 Recursion II**
 
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
 
-<!--
+**[Live Lecture](https://youtu.be/cLx3AL4UYU4)**
 
-**[Live Lecture](https://youtu.be/mqxKTxhCbqk)**
-
-**[Live Review](https://youtu.be/CDtEBk3t3Wo)**
+**[Live Review](https://youtu.be/jyYajprqdJ4)**
 
 ### Notes
 
+* [Our solutions](https://codepen.io/collection/GoJoRb)
 * [Solutions w/ Harry](https://codepen.io/collection/xKKQZk)
 
 [Full Notes](11-recursion-ii)
@@ -344,6 +340,8 @@ Hello! This is where Harry will put the material for BCP. It will be updated aft
 3. [sumVals](11-recursion-ii/C-sumVals.js)
 
 ## **12 Next Steps**
+
+<!--
 
 **[Live Lecture](https://youtu.be/ymNBN2HWEso)**
 
